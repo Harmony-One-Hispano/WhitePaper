@@ -21,7 +21,7 @@ La comunidad en Telegrama se ha fortalecido con el crecimiento de Harmony. Actua
 
 ## Token HERC-1155
 
-## Token no transferible, no tradeable. Emisiones periódicas con coste aprox. entre 50-100 ones.
+Token no transferible, no tradeable. Emisiones periódicas con coste aprox. entre 50-100 ones.
 
 ## Beneficios
 

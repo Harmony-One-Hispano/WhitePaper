@@ -1,5 +1,4 @@
 ---
-description: >-
   ProtoDAO es la primera comunidad hispana creada para atender las inquietudes
   de las múltiples DApps del ecosistema Harmony.
 ---

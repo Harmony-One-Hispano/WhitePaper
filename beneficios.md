@@ -1,11 +1,12 @@
 # Beneficios
 
-Otorga al miembro de la comunidad una serie de beneficios como los siguientes:
+Cada miembro en ProtoDao tiene los siguientes Beneficios:
 
-* derecho a voto en la DAO
-* participar en concursos
-* soporte dedicado de un validador hispano
-* descuentos en eventos
-* acceso al area privada de la web (formaciones, descuentos en cursos, etc... )
-* acceso a airdrops.
+* Derecho a voto.
+* Concursos.
+* Soporte dedicado de un validador hispano.
+* Descuentos en eventos de la red Harmony
+* Acceso al área privada de la web (Formación en Blockchain, descuento de cursos, etc.…)
+* Acceso Rápido de Airdrops.
+* Debate sobre futuras inversiones en las DApps desarrolladas en Harmony.
 
